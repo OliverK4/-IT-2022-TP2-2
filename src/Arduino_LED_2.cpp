@@ -5,7 +5,7 @@
 
 #define LED_BUILTIN 2   
 
-//------------------------CODIGO HTML------------------------------
+//HTML
 String pagina = "<!DOCTYPE html>"
 "<head>"
 "<meta name='viewport' content='width=device-width, initial-scale=1.0'>"
@@ -62,9 +62,7 @@ String pagina = "<!DOCTYPE html>"
 "</div>"      
 "</body>"
 "</html>";
-
-//-------------------------------------------------------
-
+//
 
 const char *ssid = "Oliver";
 const char *password = "123456789";
